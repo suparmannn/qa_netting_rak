@@ -1,4 +1,5 @@
 streamlit
+streamlit-lottie
 sqlalchemy
 pandas
 psycopg2-binary
