@@ -1,0 +1,17 @@
+# Konfigurasi database (ada password plaintext)
+.streamlit/db_config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

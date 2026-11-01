@@ -1,0 +1,307 @@
+{
+  "brncd": "371",
+  "periode": "April-2027",
+  "detail_harian": [
+    {
+      "brncd": "371",
+      "tgl_efektif": "01-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 305500000,
+      "bunga": 5022
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "02-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 313000000,
+      "bunga": 5145
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "03-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 308500000,
+      "bunga": 5071
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "04-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 315500000,
+      "bunga": 5186
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "05-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 323000000,
+      "bunga": 5310
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "06-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 320500000,
+      "bunga": 5268
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "07-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 320500000,
+      "bunga": 5268
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "08-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 316000000,
+      "bunga": 5195
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "09-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 314500000,
+      "bunga": 5170
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "10-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 313500000,
+      "bunga": 5153
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "11-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 315500000,
+      "bunga": 5186
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "12-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 320500000,
+      "bunga": 5268
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "13-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 315500000,
+      "bunga": 5186
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "14-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 318000000,
+      "bunga": 5227
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "15-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 313500000,
+      "bunga": 5153
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "16-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 317000000,
+      "bunga": 5211
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "17-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 316000000,
+      "bunga": 5195
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "18-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 317000000,
+      "bunga": 5211
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "19-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 313000000,
+      "bunga": 5145
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "20-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 308000000,
+      "bunga": 5063
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "21-04-27",
+      "coa_posisi": "39700000",
+      "coa_name": "ANTAR KANTOR PASIVA",
+      "rate_tahunan": 0.4,
+      "rate_harian": 0.001096,
+      "cbal_posisi": 311000000,
+      "bunga": 3408
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "22-04-27",
+      "coa_posisi": "39700000",
+      "coa_name": "ANTAR KANTOR PASIVA",
+      "rate_tahunan": 0.4,
+      "rate_harian": 0.001096,
+      "cbal_posisi": 310500000,
+      "bunga": 3403
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "23-04-27",
+      "coa_posisi": "39700000",
+      "coa_name": "ANTAR KANTOR PASIVA",
+      "rate_tahunan": 0.4,
+      "rate_harian": 0.001096,
+      "cbal_posisi": 309500000,
+      "bunga": 3392
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "24-04-27",
+      "coa_posisi": "39700000",
+      "coa_name": "ANTAR KANTOR PASIVA",
+      "rate_tahunan": 0.4,
+      "rate_harian": 0.001096,
+      "cbal_posisi": 315000000,
+      "bunga": 3452
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "25-04-27",
+      "coa_posisi": "39700000",
+      "coa_name": "ANTAR KANTOR PASIVA",
+      "rate_tahunan": 0.4,
+      "rate_harian": 0.001096,
+      "cbal_posisi": 313500000,
+      "bunga": 3436
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "26-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 317000000,
+      "bunga": 5211
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "27-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 313500000,
+      "bunga": 5153
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "28-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 312000000,
+      "bunga": 5129
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "29-04-27",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 308000000,
+      "bunga": 5063
+    },
+    {
+      "brncd": "371",
+      "tgl_efektif": "30-04-27 (Akhir Bulan)",
+      "coa_posisi": "29700000",
+      "coa_name": "ANTAR KANTOR AKTIVA",
+      "rate_tahunan": 0.6,
+      "rate_harian": 0.001644,
+      "cbal_posisi": 313000000,
+      "bunga": 5145
+    }
+  ],
+  "net_bunga_rak": 112243
+}
